@@ -1,0 +1,12 @@
+img{
+    width: 150px;
+    height: 150px;
+    display: flex;
+}
+p{
+    padding-left: 120px ;
+    margin-left: 25px;
+}
+div{
+    display:grid;
+}

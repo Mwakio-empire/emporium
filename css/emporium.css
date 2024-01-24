@@ -1,0 +1,26 @@
+ body{
+            background-color: black;
+        }
+        h1:hover{ background-color:black;
+        }
+        h2{
+            color: azure;
+        }
+        p{
+            color: aliceblue;
+        }
+        h1{
+            font-size: 72px;
+        }
+        h2{
+            font-size: 48px;
+        }
+        p{
+            font-size: 36px;
+        }
+        body{
+        background-image: url("../images/s1.png");
+            background-repeat: no-repeat;
+            background-size: 100%;
+        }
+
